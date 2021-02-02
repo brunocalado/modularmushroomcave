@@ -1,0 +1,18 @@
+{   
+   "name": "modularmushroomcave",   
+   "title": "Modular Mushroom Cave - Maps",   
+   "description": "Modular maps",   
+   "author": "Mestre Digital",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "caverna-do-cogumelo",
+      "label": "Modular Mushroom Cave - Maps",
+      "path": "packs/caverna-do-cogumelo.db",
+      "entity": "Scene",
+      "module": "modularmushroomcave"
+    }
+  ]
+ }
