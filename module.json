@@ -14,5 +14,9 @@
       "entity": "Scene",
       "module": "modularmushroomcave"
     }
-  ]
+  ],
+  "url": "https://github.com/brunocalado/modularmushroomcave",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/modularmushroomcave/master/module.json",  
+  "download": "https://github.com/brunocalado/modularmushroomcave/zip/master"
  }
+ 
