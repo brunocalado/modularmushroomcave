@@ -1,4 +1,4 @@
-# Portugues
+# Português
 
 ## Caverna dos Cogumelos Modular
 Mapas modulares para usar com o módulo [Scene Tiler](https://github.com/zeel01/scene-tiler).
